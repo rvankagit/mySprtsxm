@@ -1,0 +1,125 @@
+#EXTM3U
+#EXTINF:-1,digiquest.forumo.de:A&E
+rtmp://93.174.95.125:1935/edge/_definst_/tuc280rbycwnsvs
+#EXTINF:-1,digiquest.forumo.de:ABC HD
+rtmp://93.174.95.125:1935/edge/_definst_/nz7l9vc5nv1og7b
+#EXTINF:-1,digiquest.forumo.de:AMC HD
+rtmp://93.174.95.125:1935/edge/_definst_/z4cxm7zlfyqs65m
+#EXTINF:-1,digiquest.forumo.de:AMC
+rtmp://93.174.95.125:1935/edge/_definst_/7pctmre0zfwsc24
+#EXTINF:-1,digiquest.forumo.de:BET
+rtmp://93.174.95.125:1935/edge/_definst_/kexkxje3nqi6dtl
+#EXTINF:-1,digiquest.forumo.de:Bravo
+rtmp://93.174.95.125:1935/edge/_definst_/uw433ikqnrj501l
+#EXTINF:-1,digiquest.forumo.de:CBS HD
+rtmp://93.174.95.125:1935/edge/_definst_/vp4q2gonwzh2dku
+#EXTINF:-1,digiquest.forumo.de:CBS
+rtmp://93.174.95.125:1935/edge/_definst_/dt0qvk6nmdhk8u6
+#EXTINF:-1,digiquest.forumo.de:CNN HD
+rtmp://93.174.95.125:1935/edge/_definst_/rjxo8hz17q9waiq
+#EXTINF:-1,digiquest.forumo.de:CNN
+rtmp://93.174.95.125:1935/edge/_definst_/1z3ps9vxnknuskb
+#EXTINF:-1,digiquest.forumo.de:CW HD
+rtmp://93.174.95.125:1935/edge/_definst_/fvksu1sp51ijtyd
+#EXTINF:-1,digiquest.forumo.de:CW
+rtmp://93.174.95.125:1935/edge/_definst_/qvvkvojlano9hnj
+#EXTINF:-1,digiquest.forumo.de:Discovery HD
+rtmp://93.174.95.125:1935/edge/_definst_/ishyd3sopok3p27
+#EXTINF:-1,digiquest.forumo.de:Discovery Science HD
+rtmp://93.174.95.125:1935/edge/_definst_/ajcjdksbd8wk32z
+#EXTINF:-1,digiquest.forumo.de:Discovery
+rtmp://93.174.95.125:1935/edge/_definst_/ro7c9eha0z96hpp
+#EXTINF:-1,digiquest.forumo.de:ESPN 2 HD
+rtmp://93.174.95.125:1935/edge/_definst_/rgyus7ao2ullmbt
+#EXTINF:-1,digiquest.forumo.de:ESPN 2
+rtmp://93.174.95.125:1935/edge/_definst_/5hd19kwxef5b59o
+#EXTINF:-1,digiquest.forumo.de:ESPN HD
+rtmp://93.174.95.125:1935/edge/_definst_/xoaaohmeuajfeyf
+#EXTINF:-1,digiquest.forumo.de:ESPN
+rtmp://93.174.95.125:1935/edge/_definst_/dp2g1w4ip6v0zoc
+#EXTINF:-1,digiquest.forumo.de:Food Network HD
+rtmp://93.174.95.125:1935/edge/_definst_/ibnnu7537h3ax6e
+#EXTINF:-1,digiquest.forumo.de:Food Network
+rtmp://93.174.95.125:1935/edge/_definst_/qc6xkzf4h48bz2e
+#EXTINF:-1,digiquest.forumo.de:FOX HD
+rtmp://93.174.95.125:1935/edge/_definst_/yuu6p5oaa1x4a1p
+#EXTINF:-1,digiquest.forumo.de:Fox News HD
+rtmp://93.174.95.125:1935/edge/_definst_/ohn58e97er36vjr
+#EXTINF:-1,digiquest.forumo.de:Fox News
+rtmp://93.174.95.125:1935/edge/_definst_/w0mr10getvsikam
+#EXTINF:-1,digiquest.forumo.de:FOX
+rtmp://93.174.95.125:1935/edge/_definst_/q49uyvij145wcky
+#EXTINF:-1,digiquest.forumo.de:FX
+rtmp://93.174.95.125:1935/edge/_definst_/hrjtbc6cg6tbtgz
+#EXTINF:-1,digiquest.forumo.de:Golf Channel HD
+rtmp://93.174.95.125:1935/edge/_definst_/ts6w24dx29tcwi4
+#EXTINF:-1,digiquest.forumo.de:Golf channel
+rtmp://93.174.95.125:1935/edge/_definst_/lw1kufim1kmit1h
+#EXTINF:-1,digiquest.forumo.de:Hallmark HD
+rtmp://93.174.95.125:1935/edge/_definst_/v4ynnryunsoxzbq
+#EXTINF:-1,digiquest.forumo.de:HBO HD
+rtmp://93.174.95.125:1935/edge/_definst_/z28ie9oqoku4qoy
+#EXTINF:-1,digiquest.forumo.de:HBO
+rtmp://93.174.95.125:1935/edge/_definst_/qzbbu26gcvjxksz
+#EXTINF:-1,digiquest.forumo.de:HGTV
+rtmp://93.174.95.125:1935/edge/_definst_/gj65q2rg18tpmut
+#EXTINF:-1,digiquest.forumo.de:History
+rtmp://93.174.95.125:1935/edge/_definst_/dhp0rpd116qyyj6
+#EXTINF:-1,digiquest.forumo.de:Investigation Discovery HD
+rtmp://93.174.95.125:1935/edge/_definst_/yjma618cibkqxeo
+#EXTINF:-1,digiquest.forumo.de:Lifetime HD
+rtmp://93.174.95.125:1935/edge/_definst_/7b2gr554gyyth8e
+#EXTINF:-1,digiquest.forumo.de:Marijuana TV
+rtmp://93.174.95.125:1935/edge/_definst_/bncy42xy2eip89d
+#EXTINF:-1,digiquest.forumo.de:MSNBC HD
+rtmp://93.174.95.125:1935/edge/_definst_/1341ujtliqndod8
+#EXTINF:-1,digiquest.forumo.de:National Geographic
+rtmp://93.174.95.125:1935/edge/_definst_/b8bav5ayzso8m8q
+#EXTINF:-1,digiquest.forumo.de:NBC
+rtmp://93.174.95.125:1935/edge/_definst_/s5whw37nl7weedp
+#EXTINF:-1,digiquest.forumo.de:NBC HD
+rtmp://93.174.95.125:1935/edge/_definst_/kjgkefh6la1di6g
+#EXTINF:-1,digiquest.forumo.de:NBC Sport Network
+rtmp://93.174.95.125:1935/edge/_definst_/2qmiwfydbj6yu89
+#EXTINF:-1,digiquest.forumo.de:NBC Sport Network HD
+rtmp://93.174.95.125:1935/edge/_definst_/0fm1lstybe4a0j4
+#EXTINF:-1,digiquest.forumo.de:NFL Network
+rtmp://93.174.95.125:1935/edge/_definst_/fzasab6vz02yuf7
+#EXTINF:-1,digiquest.forumo.de:Nickelodeon
+rtmp://93.174.95.125:1935/edge/_definst_/q2hs5fqm8b039y0
+#EXTINF:-1,digiquest.forumo.de:OWN
+rtmp://93.174.95.125:1935/edge/_definst_/uehgy5htiasffj3
+#EXTINF:-1,digiquest.forumo.de:Oxygen
+rtmp://93.174.95.125:1935/edge/_definst_/zmt2swezlswh9nz
+#EXTINF:-1,digiquest.forumo.de:Science HD
+rtmp://93.174.95.125:1935/edge/_definst_/00t250wv1d4ltib
+#EXTINF:-1,digiquest.forumo.de:Showtime HD
+rtmp://93.174.95.125:1935/edge/_definst_/bwbop58ixz281wv
+#EXTINF:-1,digiquest.forumo.de:Showtime Movie
+rtmp://93.174.95.125:1935/edge/_definst_/s53jbkmyldngbks
+#EXTINF:-1,digiquest.forumo.de:Spike
+rtmp://93.174.95.125:1935/edge/_definst_/sax2mq2alpirnww
+#EXTINF:-1,digiquest.forumo.de:Syfy
+rtmp://93.174.95.125:1935/edge/_definst_/oepz9q5oivflbcw
+#EXTINF:-1,digiquest.forumo.de:Syfy HD
+rtmp://93.174.95.125:1935/edge/_definst_/x7uii7mll2b7lh4
+#EXTINF:-1,digiquest.forumo.de:TBS
+rtmp://93.174.95.125:1935/edge/_definst_/jh8nj062bqbsxdh
+#EXTINF:-1,digiquest.forumo.de:TLC
+rtmp://93.174.95.125:1935/edge/_definst_/iugceoy4o6ljhck
+#EXTINF:-1,digiquest.forumo.de:TNT HD
+rtmp://93.174.95.125:1935/edge/_definst_/7uz4als3nigi0j3
+#EXTINF:-1,digiquest.forumo.de:TNT
+rtmp://93.174.95.125:1935/edge/_definst_/6q4jlbqwvxuingo
+#EXTINF:-1,digiquest.forumo.de:Travel Channel HD
+rtmp://93.174.95.125:1935/edge/_definst_/4aiufk0o430qt0d
+#EXTINF:-1,digiquest.forumo.de:Travel Channel
+rtmp://93.174.95.125:1935/edge/_definst_/1fvuok2ny4jtmgq
+#EXTINF:-1,digiquest.forumo.de:TruTV HD
+rtmp://93.174.95.125:1935/edge/_definst_/uhnr4161ybioa5w
+#EXTINF:-1,digiquest.forumo.de:TV Land
+rtmp://93.174.95.125:1935/edge/_definst_/7yxirr4046nk5ca
+#EXTINF:-1,digiquest.forumo.de:USA Network
+rtmp://93.174.95.125:1935/edge/_definst_/h5eovaj1jeegluq
+#EXTINF:-1,digiquest.forumo.de:VH1
+rtmp://93.174.95.125:1935/edge/_definst_/oeiigxxv1gbeqq9
